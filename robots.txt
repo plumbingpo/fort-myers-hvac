@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ftmyershvac.com/sitemap.xml
